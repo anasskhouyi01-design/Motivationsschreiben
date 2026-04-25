@@ -1,0 +1,42 @@
+ #para{
+ border: 2px solid rgb(213, 86, 86);
+ 
+ font-family: Arial;
+ padding: 5px;
+ background: linear-gradient(rgb(238, 69, 190), rgb(255, 255, 255));
+}
+h1{
+    color: rgb(255, 0, 200);
+    font-size: 40px;
+text-align: center;
+text-shadow: 3px 3px 5px black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width: 300px;
+} 
+div{
+    text-align: center;
+}
+#friends{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 250px;
+   border : 10px solid black;
+
+}
+#anass{
+    border : 10px solid black;
+    margin-bottom: 250px;
+}
+#nature{
+    border : 10px solid black;
+}
+body{
+    margin: 0;
+    height: 100vh;
+    background-image: url(https://64.media.tumblr.com/e4131c661b9f4c13c3ee5b39b528ccd4/tumblr_nmli0vlBty1sdqemdo1_1280.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
